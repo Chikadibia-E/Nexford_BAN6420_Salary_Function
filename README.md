@@ -1,4 +1,3 @@
-# Nexford_BAN6420_Salary_Function
 # Employee Salary Data Processing
 
 ## Description
